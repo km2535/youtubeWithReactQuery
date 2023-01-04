@@ -1,0 +1,53 @@
+.container{
+  padding: 20px;
+  display: flex;
+  height: 700px;
+}
+.mainSection{
+  width: 70%;
+  height: 100%;
+}
+.subSection{
+  width: 30%;
+  height: 100%;
+  overflow-y: scroll;
+}
+.iframe{
+  width: 90%;
+  height: 70%;
+}
+.title{
+  font-size: 20px;
+  font-weight: bold;
+}
+.info{
+  font-size: 14px;
+}
+.like{
+  margin-right: 20px;
+}
+@media screen and (max-width : 1200px) {
+  .container{
+    flex-direction: column;
+    height: auto;
+}
+.mainSection{
+  width: 100%;
+  height: auto;
+}
+.subSection{
+  width: 100%;
+  overflow-y: visible;
+}
+.iframe{
+  width: 100%;
+  height: 600px;
+}
+}
+@media screen and (max-width : 765px) {
+  .iframe{
+  width: 100%;
+  height: 300px;
+  }
+  
+}

@@ -1,0 +1,226 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "DFopIZU2B8qkXz7spPVdEWsqLWQ",
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "iyibBPKvHadrlCdY_mV_W08UocM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pSUydWEqKwE"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-16T01:33:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'Ditto' Official MV (side A)",
+                "description": "Producer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter\n#ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pSUydWEqKwE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-16T01:33:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "xC40azVaCK4XGU6I-BdI6Sk8Y84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "69IT-53ULZA"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-06T05:28:57Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "&TEAM ‘Scent of you’ Official MV",
+                "description": "&TEAM ‘Scent of you’ Official MV\n\nCredits :\nProduction : ZANYBROS\n\nExecutive Producer : Lee Keunhwa\n\nDirector : MYUNGBAE\nAssistant Director : Kim Junghee\n\nPD : Song Suho\n\nDirector of Photography : Lim Hyeonhwak\nFocus Puller : Kim Mintae\nCamera Team : Jang Eunji, Jang Jinyeong, Choi Jongin, Jeon Jonghwan\n\nGaffer : Yoon Seungnam (BEST BOY)\nLighting Team : Hong Inkook, Kim Taeyoung, Kim Daejin, Kim Minjun, Ju Jeonghun, Song Jongseung\n\nArt : Um Minyeong (Boyyd)\n\nASTRO DIGITAL LAB (ZANYBROS)\n\nEdit Supervisor : MYUNGBAE\nEdit : Jung Daeun\nCGI VFX Supervisor : Sung Kookjin\nCGI VFX : Lee Hyangmin, Park Heerae\n\nLocation Team : IT PLACE\n\nCreative : Shin Yejin\nVisual Creative : Enokidani Mai, Shikano Hirokazu\nPerformance Directing : Lee Sebastien\nChoreography : Lee Gahun, Quick Style, Connecting The Dots, Sho-Co\nSound : Soma Genda\nA&R : Lim Hyungju, Ogido Yuyu\nBrand Experience Design : Kato Hiroki\nProduction Support : Ueda Saeko\nArtist Protocol : Ahn Jonghun, Satoh Manabu, Ando Hayato, Shirota Koki, Nagae Yui, Koizumi Yohei, Matsumoto Chihiro, Fujita Moe, Mochizuki Kenta, Satoh Kazuya\n\nHYBE LABELS JAPAN. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by HYBE LABELS JAPAN, Tokyo, Japan.\n\n#andTEAM #FirstHowling_ME #Scent_of_you\n\nLink with &TEAM\n\nOfficial Website https://www.andteam-official.jp/\nOfficial Weverse https://weverse.io/andteam/feed\nOfficial Twitter https://twitter.com/andTEAMofficial\nMember Twitter https://twitter.com/andTEAM_members\nOfficial YouTube https://www.youtube.com/c/andTEAM_official\nOfficial Instagram https://www.instagram.com/andteam_official/\nOfficial TikTok https://www.tiktok.com/@andteam_official",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/69IT-53ULZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/69IT-53ULZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/69IT-53ULZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/69IT-53ULZA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/69IT-53ULZA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-06T05:28:57Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VmbdodTtNE29TSZo2XpPQLoP1_g",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sVTy_wmn5SU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T09:02:10Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)",
+                "description": "NewJeans (뉴진스) 'OMG' Official MV (Performance ver.1)\n\nProducer: MIN HEE JIN\nMusic Video Director: Wooseok Shin (DOLPHINERS FILM)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스\n#NewJeans_OMG #NewJeans_Ditto\n#Year_of_NewJeans\n#ADOR #어도어",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sVTy_wmn5SU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T09:02:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ovwmb2XZ1pt_vtIcxCMEAtwe-0c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "PNuIOqhIlGU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-01T05:19:17Z",
+                "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+                "title": "SMTOWN '빛 (Hope from KWANGYA)' Official Video (SMCU PALACE @KWANGYA Ver.)",
+                "description": "From SMTOWN LIVE 2023 : SMCU PALACE @KWANGYA\n\n🎬 'The Cure' MV https://youtu.be/Gn7pr7RGPoM\n\nSMTOWN Official\nhttps://www.youtube.com/smtown\nhttps://www.facebook.com/smtown\nhttps://www.instagram.com/smtown\nhttps://twitter.com/SMTOWNGLOBAL\nhttps://www.tiktok.com/@smtown_official\n\n#SMTOWN #빛 #Hope_from_KWANGYA\n#SMTOWN_LIVE #SMCU_PALACE #SMTOWN2023 #SMCU\n\nSMTOWN '빛 (Hope from KWANGYA)' Official Video (SMCU PALACE @KWANGYA Ver.) ℗ SM Entertainment",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PNuIOqhIlGU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PNuIOqhIlGU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PNuIOqhIlGU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PNuIOqhIlGU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PNuIOqhIlGU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "SMTOWN",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-01T05:19:17Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "q2kstbEc9UyEttCJhWJi6Kgg5Ss",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "odZJPU_46Ek"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-30T16:12:00Z",
+                "channelId": "UCTKJ96FsE4sv86eSs8yNetw",
+                "title": "邱鋒澤 FENG ZE 【 浮木 DRIFTWOOD 】Official MV",
+                "description": "2023.1.8 13:00 台北西門紅樓 簽唱會\n2023.01.14 ~ 2023.01.17 《DEEP AWAKENING》展覽 Exhibition \n\n─────────────────────────\n\n「在抬頭的剎那，你依然會在岸上等我嗎?」\n\n被拯救、被療癒、被記得。 在迷失的過程裡，有沒有一個東西能夠讓你覺得需要繼續堅持下去? 即使從海底至海面遙遠也願意慢慢嘗試前進?\n\n幽暗封閉的海底， 你是唯一的光，指引我上浮的方向。 在經歷人生最低谷之後， 是你讓我有勇氣回到岸上重新面對生活與挑戰。\n\n[Will you be there for me when I look towards you?] \n\nWorries and anxiety plague my mind as I yearn to be saved, to be healed, and to be remembered. For that moment the world goes dark and I lose myself in the thousand thoughts that run rampant through my mind. And then, as surely as I try to float to the surface, I catch a glimpse of your guiding light that once more builds the fire of courage within me.\n\n\n浮木\n詞：葛大為\n曲：邱鋒澤、張暐弘\n\n明亮的陽光下\n更讓我覺得匱乏\n自卑得像懲罰\n\n以為我是 你聽不見 的聲響\n自顧自地唱\n你是浮木 給我肩膀\n\n在沉沒的地方\n也從不忘記仰望\n找尋你的方向\n\n以為你是 我跟不上 的步伐\n你卻卸下了心防\n輕輕說 別慌張\n\n接住我 好嗎 當我最需要\n這一顆心 有一個人 能分享\n分分秒秒 被你認定的時光\n都讓我的回憶 有重量\n\n抱住你 好嗎 什麼也不想\n不想明天 不害怕 不堅強\n你會等我 等我從低谷飛翔\n救贖 我曾死去 每個夢想\n\n這人間 要窒息 還不急著 放棄\n因為你會說 你愛我\n\n抱住你 好嗎 什麼也不想\n不想遙遠 不害怕 有悲傷\n你要等我 等我離開這汪洋\n抬頭 水面 之上 你就在那\n\n─────────────────────────\n\n— Music Credit — \n\n製作人Producer |  張暐弘 Hoong\n編曲 Arranger |  張暐弘 Hoong\n錄音師Recording Engineer |  張暐弘 Hoong\n混音師 Mixing Engineer |  張暐弘 Hoong\n錄音室Recording Studio |  原音兄弟股份有限公司 ReasonBrothers Ltd.\n弦樂監製 String Producer |  蔡曜宇 Shuon Tsai\n弦樂 Strings |  曜爆甘音樂工作室 Just Busy Music Studio\n第一小提琴 First Violin |  駱思云 Ssu-Yun Lo\n第二小提琴 Second Violin |  黃瑾諍 Chin-Cheng Huang\n中提琴 Viola |  甘威鵬 Weapon Gan\n大提琴 Cello |  劉涵 隱分子 Hang Liu\n弦樂錄音師 String Recording Engineer |  林尚伯 Lin Shang-Po\n弦樂助理錄音師 String Assistant Engineer |  張閔翔 Min-Hsiang Chang、朱品豪 Pin-Hao Ju \n技術支援 Technical Support |  徐振程 Jason Hsu\n弦樂錄音室 String Recording Studio |  玉成戲院錄音室 YuChen Cinema\n\n—MV Credit — \n\nSTARRING |  FENG ZE  SHEENA CHAN\nGUEST STARRING | EDAN LUI\n\nDIRECTOR |  MAGGIE LEUNG   SHENG WONG\nPRODUCER |  HIDI LEE\nASSISTANT DIRECTOR |  CHING LI\nPRODUCTION MANAGER |  MIAOW NG\nLOCATION | TERRI LI\n \nDIRECTOR OF PHOTOGRAPHY |  FELIX LEONG\nASSISTANT CAMERA |  SOKIN   DESHAWNLEUNG\nGAFFER | MALO MA   WONG KAI YEUNG \nGRIP & ELECTRICIAN | TRACY LAM   LUK KING HEI   NG WING SUM \n \nART DIRECTOR |  IPSIU\nART TEAM |  KUMI TONG   ALEX WONG \n \nSTYLIST | EXACTLY THE SAM\nSTYLING ASSISTANT | STEPHANIE CHOY\n \nHAIR STYLIST (FENG ZE) | REBECCA @ CUBEX\nMAKE UP ARTIST (FENG ZE) | 瑋瑋 @ A ROOM MAKEUP\n\n\nHAIR STYLIST (EDAN) | MAN CHAN @ CHIC PRIVATE I SALON \nMAKE UP ARTIST (EDAN) | RAINBOW CHUNG @ ANNIE G. CHAN MAKEUP CENTRE\n \nHAIR STYLIST (SHEENA) | DON DON\nMAKE UP ARTIST (SHEENA) | LEO TAM\n\n\nPRODUCTION ASSISTANT | NEO MAN   MK SUEN   HUNG TO\n\n\nEDITOR |  Y\nCOLORIST |  FMLIK\nRETOUCHER |  MOK\n \nPHOTOGRAPHER | COW10\n2RD PHOTOGRAPHER | XXIIIPL\n \nTALENT\nFENG ZE’S MUM | ATHENARA WONG\nFENG ZE 6 YEARS OLD| WESLEY WONG\nRESTAURANT OWNER| CHEUK YAN\n \nFENG ZE ARTIST MANAGEMENT | 原音兄弟 REASONBROTHERS\nEDAN ARTIST MANAGEMENT | MAKERVILLE\n\nWARDROBES | CODA COS DIESEL INITIAL GENTELMAN I.T. MR PORTER SANDRO \nSERIES CORNER TREE AND BRANCH\n \nCREW MEAL SPONSOR | FOOD PANDA\n\nFeng Ze 邱鋒澤\nInstagram: https://www.instagram.com/qiufengze \nFacebook: https://www.facebook.com/KennyKhoo.QiuFengZe\nTiktok: https://www.tiktok.com/@qiufengze\n\n\nⓒ 2023 Reason Brothers 原音兄弟股份有限公司. All Rights Reserved\n#浮木  #見過深淵的人  #fengze",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/odZJPU_46Ek/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/odZJPU_46Ek/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/odZJPU_46Ek/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/odZJPU_46Ek/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/odZJPU_46Ek/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Feng Ze邱鋒澤",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-30T16:12:00Z"
+            }
+        }
+    ]
+}

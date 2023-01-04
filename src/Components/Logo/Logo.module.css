@@ -1,0 +1,33 @@
+.logo{
+  font-size: 100px;
+  display: flex;
+  cursor: pointer;
+}
+.logoImg{
+  color: #FF0000;
+  margin-right: 20px;
+}
+.logoTxt{
+  margin-right: 20px;
+  font-size: 120px;
+}
+@media screen and (max-width : 1000px) {
+  .logo{
+    font-size: 80px;
+  }
+  .logoTxt{
+    font-size: 100px;
+  }
+}
+@media screen and (max-width : 765px) {
+  .logo{
+    font-size: 30px;
+  }
+  .logoImg{
+    margin-right: 5px;
+  }
+  .logoTxt{
+    font-size: 40px;
+  }
+  
+}

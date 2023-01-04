@@ -1,0 +1,56 @@
+.list{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin: 0 auto;
+}
+.video{
+  margin: 20px 0 20px 0;
+  width: 100%;
+  overflow-x: hidden;
+  
+}
+.thumbnails,.title{
+  width: 100%;
+  cursor: pointer;
+}
+.title{
+  font-size: 18px;
+}
+
+@media screen and (max-width : 1200px) {
+  .list{
+    flex-direction: row;
+    flex-wrap: wrap;
+  width: 1000px;
+}
+    .video{
+  width: 50%;
+}
+.thumbnails,.title{
+  width: 90%;
+}
+}
+@media screen and (max-width : 1000px) {
+    .list{
+    width: 700px;
+  }
+    .video{
+    width: 50%;
+  }
+    .thumbnails,.title{
+    width: 90%;
+  }
+}
+@media screen and (max-width : 765px) {
+      .list{
+    width: 400px;
+  }
+    .video{
+    width: 100%;
+  }
+    .thumbnails ,.title{
+    width: 90%;
+  }
+  
+}

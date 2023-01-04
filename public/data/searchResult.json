@@ -1,0 +1,856 @@
+{
+    "kind": "youtube#searchListResponse",
+    "etag": "bgAUZNyftSpmJmjtyq1VDkbeujY",
+    "nextPageToken": "CBkQAA",
+    "regionCode": "KR",
+    "pageInfo": {
+        "totalResults": 1000000,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "tXds3cNhcSz4XWGWZJBV9QGoGcM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "j0YqLQGlG6s"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-03T11:45:01Z",
+                "channelId": "UCaSHsWmh1CK8ptMAqSzDFCA",
+                "title": "중학생은 스터디코드 유료강의 언제부터 들을까요? | &#39;국어의 CODE&#39; 유료강의 중학생 수강 학년에 대한 권고를 공식적으로 변경합니다. | 중학교 1,2학년 스터디코드 수강시기",
+                "description": "입시 상황이 급변했습니다. '중학교 1,2학년 + 3학년 1학기'에 해당하는 학생이면, 단순히 스터디코드 유료강의를 떠나 꼭 시청해 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j0YqLQGlG6s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j0YqLQGlG6s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j0YqLQGlG6s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "STUDYCODE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-03T11:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "r9PtQ4mqep7FTZeC3Sqm0XJDLAk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MAXy-YY7itg"
+            },
+            "snippet": {
+                "publishedAt": "2022-12-01T09:00:01Z",
+                "channelId": "UCn_T9wIiqniX99nxdLw_0OQ",
+                "title": "&#39;복근 있니?❤️&#39; 남친 찾으러 온 매운맛 누나에게 딱 걸린 (발라드계) 박보검😨;;ㅣ정승환&amp;퀸와사비 [셀폰KODE]",
+                "description": "01:56 니였다면 어떨거같노..목젖 까라는 매운맛 누나가 니 짝이 된다카믄.. 04:09 헬창러버 누님께 한껏 화난 복근 공개하는(?) 정승환 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MAXy-YY7itg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MAXy-YY7itg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MAXy-YY7itg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KODE 코드",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-12-01T09:00:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3bztJ7fqFl2bQMr1vidhgF-O3hg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ULIcyoDIGNY"
+            },
+            "snippet": {
+                "publishedAt": "2021-12-15T13:58:06Z",
+                "channelId": "UCOUh37Gvn0NmVw9E28qGC1A",
+                "title": "코드 빠르고 쉽게 외우는 방법 / 메이저코드, 마이너코드 / 악보보는법 11",
+                "description": "악보보는법 #코드보는법 #음악이론 오늘 주제는 \"코드 보는 법\"입니다 코드를 읽을 때는 가장 첫 음의 음이름을 봐주시면 조금 쉽게 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ULIcyoDIGNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ULIcyoDIGNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ULIcyoDIGNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소리담기soridamki",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-12-15T13:58:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "W1BFDbDyXN0o4UeCr-5yXT57-tg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Xufythmdxxk"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-22T13:30:03Z",
+                "channelId": "UC7SfvPZ4pqzSxLjApsqsPDw",
+                "title": "[화성학 이야기 ep.03] 코드, 이름 짓는 원리만 알면 진짜 쉬워요!",
+                "description": "1번 : 코드의 근음을 결정하는 음이름(알파벳) 2번 : 코드의 3도를 단3도로 만들어주는 소문자m 3번 : 코드의 7도를 장7도로 만들어 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Xufythmdxxk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Xufythmdxxk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Xufythmdxxk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "레몬보이싱",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-22T13:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "G5EI4o3rb9BWfrau1gNS7bKEbuY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DvXp9IByQ4Y"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-06T07:46:13Z",
+                "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+                "title": "샤이니 - 코드 (SHINee - CØDE), MBC 210306 방송",
+                "description": "샤이니 - 코드 (SHINee - CØDE), MBC 210306 방송 [쇼! 음악중심] 716회, 20210306.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DvXp9IByQ4Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DvXp9IByQ4Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DvXp9IByQ4Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MBCkpop",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-06T07:46:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hy23LkygSu_8-cA3de8W0FHNKMk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "UKuso5E5PLQ"
+            },
+            "snippet": {
+                "publishedAt": "2018-05-06T16:08:33Z",
+                "channelId": "UCjXkrHcbIoKcjwhDhW8fGOg",
+                "title": "코드! 외우지 않고도 알수있는법 !! [재즈/화성학/음악이론]",
+                "description": "실용음악 대학교에서 값비싼 등록금을 내야만, 배울수 있는 수준높은 강의들을 정말 말도 안되는 비용으로 시청하실수 있습니다.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UKuso5E5PLQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UKuso5E5PLQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UKuso5E5PLQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Abraham Kim",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-05-06T16:08:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "z_f0WQdozqR6KRYHFxk0me2qWGo",
+            "id": {
+                "kind": "youtube#channel",
+                "channelId": "UCaSHsWmh1CK8ptMAqSzDFCA"
+            },
+            "snippet": {
+                "publishedAt": "2007-01-12T02:00:27Z",
+                "channelId": "UCaSHsWmh1CK8ptMAqSzDFCA",
+                "title": "STUDYCODE",
+                "description": "막연함의 끝, 완전한 확신의 공부 스터디코드 유료강의 - https://www.STUDYCODE.com/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu96c551tvOS6W1EcB_hwM64F44KOL5x4-5FIe_qmg=s88-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "medium": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu96c551tvOS6W1EcB_hwM64F44KOL5x4-5FIe_qmg=s240-c-k-c0xffffffff-no-rj-mo"
+                    },
+                    "high": {
+                        "url": "https://yt3.ggpht.com/ytc/AMLnZu96c551tvOS6W1EcB_hwM64F44KOL5x4-5FIe_qmg=s800-c-k-c0xffffffff-no-rj-mo"
+                    }
+                },
+                "channelTitle": "STUDYCODE",
+                "liveBroadcastContent": "live",
+                "publishTime": "2007-01-12T02:00:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "TgiSS2v6rRJMtXo_t4x2Jl6m0GQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "hLrb1BXowt0"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-04T11:03:32Z",
+                "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+                "title": "[SHINee - CØDE] KPOP TV Show |#엠카운트다운 | M COUNTDOWN EP.700 | Mnet 210304 방송",
+                "description": "KPOP Chart Show M COUNTDOWN | EP.700 - SHINee - CØDE ▷Watch more video clips: http://bit.ly/MCOUNTDOWN2021 [Kor ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hLrb1BXowt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hLrb1BXowt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hLrb1BXowt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mnet K-POP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-04T11:03:32Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "2LL4qH4tLFo5Nfz9DzHNnjZX48w",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pVy60Ur831g"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-15T22:44:49Z",
+                "channelId": "UCB9YhMc2Kx5XIZTM2au5Z1Q",
+                "title": "🎶[PLAYLIST] CODE KUNST (코드 쿤스트) [노래 모음]🎶",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pVy60Ur831g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pVy60Ur831g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pVy60Ur831g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KHIPHOP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-15T22:44:49Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "g7wH_HBvcmRXOR_72SvspfwbP-k",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YUI1VwJmgxo"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-18T11:30:03Z",
+                "channelId": "UCYNdphrgX0v2q7g4KWiMQFw",
+                "title": "이공식만 알면 기타코드로 지판을 날아다님 ! (Anyone can play with the guitar chord if they know this formula.)",
+                "description": "Anyone can play with the guitar chord if they know this formula. 코드외우는공식과 연습법 소개기타구매 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YUI1VwJmgxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YUI1VwJmgxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YUI1VwJmgxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "오부리킴의 쉬운 오부리기타",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-18T11:30:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JuymaxqILYKccnWYjHiWA3-T8xs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "4ItxA9gNs7s"
+            },
+            "snippet": {
+                "publishedAt": "2022-11-08T09:00:00Z",
+                "channelId": "UCn_T9wIiqniX99nxdLw_0OQ",
+                "title": "쇼미더킹받드라슈🔥 시작 5분만에 퇴근 선언한 저스디스의 사연ㅣKCM&amp;저스디스 [셀폰 KODE]",
+                "description": "04:19 아재개그 장전   발사  (이거 보고 안 웃으면 사람임^^) 05:21 MBTI에 정통한 사람(?)만 이해 가능 07:20 돈에 환장한 저스디스 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4ItxA9gNs7s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4ItxA9gNs7s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4ItxA9gNs7s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KODE 코드",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-11-08T09:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "rCeTWJ-jV3AG2ZXvVYL3NpU4uhg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lWDxhZ-AU_o"
+            },
+            "snippet": {
+                "publishedAt": "2019-10-12T09:40:40Z",
+                "channelId": "UCdY0EJ3H5uT0Ehi_WCFsWbw",
+                "title": "피아노 코드 쉽게 외우는 법",
+                "description": "피아노로 코드를 연주하려면 외워야 하는 코드가 한 둘이 아니라 어렵습니다. 다이어토닉 코드를 기준으로 쉽게 외우는 법에 대해서 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lWDxhZ-AU_o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lWDxhZ-AU_o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lWDxhZ-AU_o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소크라톤",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-10-12T09:40:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6K_dKxgOyj9-vXUzD2UsHVJjD8I",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BY4J1wbGicY"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-06T09:15:02Z",
+                "channelId": "UCaSHsWmh1CK8ptMAqSzDFCA",
+                "title": "스터디코드 중학교 버전 | &#39;중학교 공부법&#39;에 대한 가장 완전한 대답",
+                "description": "수많은 중학생들의 요청에 대해, 가장 명확하게 답변합니다. '중학생 공부법'에 대한 스터디코드의 공식적이며 가장 최신의 답변입니다 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BY4J1wbGicY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BY4J1wbGicY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BY4J1wbGicY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "STUDYCODE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-06T09:15:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9FwZ75h59NjrAmnATmuiEQpWhwY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JFWuejnHmoY"
+            },
+            "snippet": {
+                "publishedAt": "2019-05-24T05:36:26Z",
+                "channelId": "UCamr2C6vOCNHyclNNmjgyCA",
+                "title": "[피아노반주법] 10 핵심 코드 6개만 알면 어떤 곡이든 연주할 수 있다 _ccm 교회 예배 반주 피아노 강의 독학",
+                "description": "시스템 및 내용을 보강하여 리마스터 버전으로 새로 영상이 제작되었어요. 리마스터 버전 영상 보러 가기 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JFWuejnHmoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JFWuejnHmoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JFWuejnHmoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "다락별 darakbyul piano",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-05-24T05:36:26Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bkYGi_ZTna-5uo2UU_Gn1MaYE-o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KEtpah7nJa4"
+            },
+            "snippet": {
+                "publishedAt": "2022-10-13T09:13:43Z",
+                "channelId": "UCn_T9wIiqniX99nxdLw_0OQ",
+                "title": "모니카 오늘 소개팅한대요♥️ 근데 동거인이래요ㅎ I 모니카&amp;립제이 [셀폰KODE]",
+                "description": "03:09 낯선이와의 정체 공개..!!! 두근     06:11 아니 태도가 이렇게 180도 바뀐다고요???ㅋㅋㅋㅋ 10:10 스우파 시절 모니카가 쓴 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KEtpah7nJa4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KEtpah7nJa4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KEtpah7nJa4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "KODE 코드",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-10-13T09:13:43Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4mCdkWYhnPA6cuTJwcbdREmapvM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "DBNMVG0-qW4"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-08T03:59:40Z",
+                "channelId": "UCYklfdyMV7wEZKMOeM57D0w",
+                "title": "SHINee (샤이니) - CØDE (코드) 교차편집 (Stage Mix)",
+                "description": "We're lost in the rain So let's run away 우린 서로뿐인데- BGM Source : 210304 엠카운트다운 https://youtu.be/hLrb1BXowt0 .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DBNMVG0-qW4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DBNMVG0-qW4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DBNMVG0-qW4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "애치랑 짝궁이들",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-08T03:59:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "U58zDB0S-VPKNb6hVeSEemH7LMM",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Uvzr-PalojE"
+            },
+            "snippet": {
+                "publishedAt": "2019-02-06T13:44:05Z",
+                "channelId": "UClgmQX-dVC_HljoC4rBw3XQ",
+                "title": "기본 코드 쉽게 배우기 !! 왕초보 피아노ㅣEasy Piano ChordㅣPiano Lessonㅣ메이저 마이너 코드ㅣ피아노 레슨ㅣ피아노 독학ㅣAcorde de Piano",
+                "description": "Major, Minor 기본 코드를 쉽게 외울수있는 영상 올려보았어요.. 끝까지 한번만 시청하시면 머릿속에 쏙 들어올거에용~~ 도움이 되셨 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Uvzr-PalojE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Uvzr-PalojE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Uvzr-PalojE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "윤쌤 피아노, Yoon Piano",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-02-06T13:44:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jmXnDRITY8XqXWU0IswYZ0uP3zI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ysTXwIY7tY8"
+            },
+            "snippet": {
+                "publishedAt": "2019-07-26T08:00:06Z",
+                "channelId": "UCdY0EJ3H5uT0Ehi_WCFsWbw",
+                "title": "코드 보는 법",
+                "description": "악보에 표기된 코드를 보고 어떤 음을 연주해야할지 알려드립니다. 무슨 원리로 코드를 표기하는지 설명했습니다. 작곡 이외에 피아노 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ysTXwIY7tY8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ysTXwIY7tY8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ysTXwIY7tY8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "소크라톤",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-07-26T08:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XPzhhX9IlfMftCc86jb6DpG37tc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "OWyCAONOWzo"
+            },
+            "snippet": {
+                "publishedAt": "2017-01-16T16:59:29Z",
+                "channelId": "UC6Yyt4u65wqf4PxRUm8Zmpg",
+                "title": "ENG CC) 피아노 코드 배우기1️⃣  Major코드 외우기 | 5분만에 피아노코드 배우기",
+                "description": "피아노코드암기법 ✓무조건 외우지 말고 머리로 먼저 이해한 후에 연습해주세요 영상 느리게 보는 법: 오른쪽 상단의 점3개 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OWyCAONOWzo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OWyCAONOWzo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OWyCAONOWzo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pianist RARA 라라의 피아노 스튜디오",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-01-16T16:59:29Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "b4z3W-VyT3gr9OYNOE-ArqgpCS4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vGDwcoGnI7M"
+            },
+            "snippet": {
+                "publishedAt": "2019-01-15T09:00:14Z",
+                "channelId": "UCweOkPb1wVVH0Q0Tlj4a5Pw",
+                "title": "[MV] CODE KUNST(코드 쿤스트) _ XI (Feat. Lee Hi(이하이))",
+                "description": "[MV] CODE KUNST(코드 쿤스트) _ XI (Feat. Lee Hi(이하이)) ***** Hello, this is 1theK. We are working on subtitles now! Please ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vGDwcoGnI7M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vGDwcoGnI7M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vGDwcoGnI7M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "1theK (원더케이)",
+                "liveBroadcastContent": "none",
+                "publishTime": "2019-01-15T09:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_mUaVdYgJIuHsm5wFLQqeJaOsHU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FjUs1R26RWs"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-01T03:15:00Z",
+                "channelId": "UCaSHsWmh1CK8ptMAqSzDFCA",
+                "title": "메디컬 빼고는, SKY/대학간판의 가치가 떨어진 시대 | &#39;우리는 왜 공부하는가?&#39; | 공부목표의 종말 | 공부자극,동기부여의 종말 | 라이프코드",
+                "description": "\"대학간판 가치 종말의 시대\" 우리는 왜 공부해야 할까요? 아니면, 공부를 하지 말아야 할까요? 어디서도 들을 수 없는 '전혀 새로운 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FjUs1R26RWs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FjUs1R26RWs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FjUs1R26RWs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "STUDYCODE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-01T03:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "YhbWwmGbxeLDw512hvngG9x2XLE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "h0V39IQA8dU"
+            },
+            "snippet": {
+                "publishedAt": "2023-01-02T10:00:16Z",
+                "channelId": "UC0QBW1zC_WKWe5dhenG1ZUA",
+                "title": "[미래코드] EP.44 KARA MEDLEY BEHIND",
+                "description": "[미래코드] EP.44 KARA MEDLEY BEHIND #미래소년 #MIRAE #미래코드 #MIRAEcord == Snow Prince == △ MUSIC VIDEO ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h0V39IQA8dU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h0V39IQA8dU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h0V39IQA8dU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "MIRAE",
+                "liveBroadcastContent": "none",
+                "publishTime": "2023-01-02T10:00:16Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "P7-3vS6C-meh5VtCk0M1YxO_300",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YlQP9F8d1KM"
+            },
+            "snippet": {
+                "publishedAt": "2017-08-30T22:00:02Z",
+                "channelId": "UCNxywnbXT-F9DAYxQn1BdPg",
+                "title": "[홈레코딩.1] 작곡의 시작 - 코드의 이해 (feat.Major and Minor)",
+                "description": "코드를 이해 하면서 작곡이 시작되지요. 가장 기본이 되는 Major 코드와 Minor 코드를 다뤄봤어요 도움이 되길 바래요!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YlQP9F8d1KM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YlQP9F8d1KM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YlQP9F8d1KM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "OTHANKQ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-08-30T22:00:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lOVegP69iG1-qZkZrwJRVVmDm5c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "BHvaJvWW-L0"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-23T16:58:53Z",
+                "channelId": "UCPaKyZuLL48DsDQQ7iuiB-A",
+                "title": "기타초보/입문/독학 강좌 - 기타 기본코드 완벽 정리 오픈코드 편 (어떤 코드부터 외워야 할까?) [노래하는 기타_Singing Guitar]",
+                "description": "기타초보 #기타코드 #기본코드 기타 초보자분들을 위한 기본코드 정리 영상입니다. 어떤 코드부터 외워야 할지 고민하지 마시고 일단 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BHvaJvWW-L0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BHvaJvWW-L0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BHvaJvWW-L0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "노래하는 기타 Singing Guitar",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-23T16:58:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EDWVoKj2xWjwicSrntvRfZmUYJs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "KSLif65Q3N4"
+            },
+            "snippet": {
+                "publishedAt": "2018-10-31T12:03:27Z",
+                "channelId": "UCtVg4Qkf2bxbx-rWeB1Xd0Q",
+                "title": "[피아노 반주법] 코드 개념 쉽게 이해하는 꿀팁!",
+                "description": "코드 개인레슨 강의 www.piareno.com 음악용품 ITEM (악보화일/뮤직다이어리 등) https://smartstore.naver.com/chachapiano ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KSLif65Q3N4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KSLif65Q3N4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KSLif65Q3N4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ChaChaPiano차차와피아노놀이",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-10-31T12:03:27Z"
+            }
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+.btn{
+  background-color: transparent;
+  border: none;
+}
+.search{
+  cursor: pointer;
+  font-size: 30px;
+}
